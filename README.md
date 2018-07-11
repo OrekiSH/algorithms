@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|
 |--|--- |--------|----------|
+|15|[3Sum](https://leetcode.com/problems/3sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-15/js/solution.js)|medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-closest-16/js/solution.js), [c](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-closest-16/c/solution.c)|medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/remove-duplicates-from-sorted-array-26/js/solution.js)|easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/search-insert-position-35/js/solution.js)|easy|
