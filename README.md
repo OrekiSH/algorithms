@@ -2,6 +2,7 @@
 
 |#|Title|Solution|Difficulty|
 |--|--- |--------|----------|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/longest-substring-without-repeating-characters-3/js/solution.js)|medium|
 |15|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-15/js/solution.js)|medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-closest-16/js/solution.js), [c](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-closest-16/c/solution.c)|medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/remove-duplicates-from-sorted-array-26/js/solution.js)|easy|
