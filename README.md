@@ -2,7 +2,7 @@
 
 |#|Title|Solution|Difficulty|Data Structure|
 |--|--- |--------|----------|--------------|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-two-numbers-2/js/solution.js)|medium|linked list|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-two-numbers-2/js/solution.js), [c](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-two-numbers-2/c/solution.c)|medium|linked list|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/longest-substring-without-repeating-characters-3/js/solution.js)|medium|string|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/longest-palindromic-substring-5/js/solution.js)|medium|string|
 |15|[3 Sum](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/3sum-15/js/solution.js)|medium|array|
