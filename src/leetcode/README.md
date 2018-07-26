@@ -13,6 +13,7 @@
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-ii-63/js/solution.js)|medium|array|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/same-tree-100/js/solution.js)|easy|tree|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-depth-of-binary-tree-104/js/solution.js)|easy|tree|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
