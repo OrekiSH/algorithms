@@ -18,6 +18,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-first-and-last-position-of-element-in-sorted-array-34/js/solution.js)|medium|array|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/search-insert-position-35/js/solution.js)|easy|array|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/combination-sum-39/js/solution.js)|medium|array|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/multiply-strings-43/js/solution.js)|medium|string|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-subarray-53/js/solution.js)|easy|array|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-62/js/solution.js)|medium|array|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-ii-63/js/solution.js)|medium|array|
