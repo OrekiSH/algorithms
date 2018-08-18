@@ -8,6 +8,7 @@ Output: false
 Input: [1]
 Output: true
 
-Input: [2,5,0,0]]
+Input: [2,5,0,0]
 Output: true
+0 -> 1 -> 3
 ```
