@@ -20,7 +20,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-first-and-last-position-of-element-in-sorted-array-34/js/solution.js)|medium|array|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/permutations-46/js/solution.js)|medium|array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-subarray-53/js/solution.js)|easy|array|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/spiral-matrix-54/js/solution.js)|medium|array|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/jump-game-55/js/solution.js)|medium|array|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-62/js/solution.js)|medium|array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/add-binary-67/js/solution.js)|easy|string|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
