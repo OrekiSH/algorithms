@@ -20,7 +20,7 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-first-and-last-position-of-element-in-sorted-array-34/js/solution.js)|medium|array|
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/permutations-46/js/solution.js)|medium|array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-subarray-53/js/solution.js)|easy|array|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/merge-intervals-56/js/solution.js)|medium|array|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/spiral-matrix-ii-59/js/solution.js)|medium|array|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/minimum-path-sum-64/js/solution.js)|medium|array|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/add-binary-67/js/solution.js)|easy|string|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
