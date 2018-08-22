@@ -22,7 +22,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-subarray-53/js/solution.js)|easy|array|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/spiral-matrix-ii-59/js/solution.js)|medium|array|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/minimum-path-sum-64/js/solution.js)|medium|array|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/add-binary-67/js/solution.js)|easy|string|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/climbing-stairs-70/js/solution.js)|easy|array|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/same-tree-100/js/solution.js)|easy|tree|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-depth-of-binary-tree-104/js/solution.js)|easy|tree|
