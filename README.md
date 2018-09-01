@@ -25,7 +25,7 @@
 |77|[Combinations](https://leetcode.com/problems/combinations/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/combinations-77/js/solution.js)|medium|array|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/remove-duplicates-from-sorted-list-83/js/solution.js)|easy|linked list|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/same-tree-100/js/solution.js)|easy|tree|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/symmetric-tree-101/js/solution.js)|easy|tree|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/balanced-binary-tree-110/js/solution.js)|easy|tree|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/path-sum-112/js/solution.js)|easy|tree|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
