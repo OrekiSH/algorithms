@@ -10,21 +10,18 @@
  * @return {void} Do not return anything, modify root in-place instead.
  */
 var flatten = function(root) {
-  if (!root) {
-    return null;
+  var current = root;
+  while (current) {
+    if (current.left) {
+      var pre = current.left;
+      while (pre.right) {
+        pre = pre.right;
+      }
+      pre.right = current.right;
+      current.right = current.left;
+      current.left = null;
+    }
+
+    current = current.right;
   }
-
-  var left = root.left;
-  var right = root.right;
-  root.left = null;
-
-  flatten(left);
-  flatten(right);
-
-  root.left = right;
-  var head = root;
-  while (!head.right) {
-    head = head.right;
-  }
-  head.right = right;
 };
