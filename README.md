@@ -1,4 +1,4 @@
-# Leetcode
+|136|[Single Number](https://leetcode.com/problems/single-number/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/single-number-136/js/solution.js)|easy|array|
 
 |#|Title|Solution|Difficulty|Data Structure|
 |--|--- |--------|----------|--------------|
