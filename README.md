@@ -1,4 +1,4 @@
-|136|[Single Number](https://leetcode.com/problems/single-number/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/single-number-136/js/solution.js)|easy|array|
+|148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/sort-list-148/js/solution.js)|medium|linked list|
 
 |#|Title|Solution|Difficulty|Data Structure|
 |--|--- |--------|----------|--------------|
