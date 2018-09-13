@@ -1,4 +1,4 @@
-|148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/sort-list-148/js/solution.js)|medium|linked list|
+|198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/house-robber-198/js/solution.js)|easy|array|
 
 |#|Title|Solution|Difficulty|Data Structure|
 |--|--- |--------|----------|--------------|
