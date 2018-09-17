@@ -30,4 +30,4 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr()/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/implement-strstr()-28/js/solution.js)|easy|string|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/combination-sum-ii-40/js/solution.js)|medium|array|
