@@ -2,26 +2,25 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var permute = function(nums) {
-  var result = [];
-  var tmp = [];
-  backtrack(result, tmp, nums);
+const permute = function(nums) {
+  let result = [];
+  nums.sort((a, b) => a - b);
+
+  backtrack(result, [], nums, 0);
   return result;
 };
 
-function backtrack(result, tmp, nums) {
+function backtrack(result, tmp, nums, start) {
   if (tmp.length === nums.length) {
-    result.push(tmp.slice());
-  } else {
-    for (var i = 0; i < nums.length; i += 1) {
-      if (tmp.indexOf(nums[i]) !== -1) {
-        continue;
-      }
-      tmp.push(nums[i]);
-      backtrack(result, tmp, nums);
-      tmp.pop();
+    return result.push(tmp.slice());
+  }
+
+  for (let i = 0; i < nums.length; i += 1) {
+    if (tmp.includes(nums[i])) {
+      continue;
     }
+    tmp.push(nums[i]);
+    backtrack(result, tmp, nums, i + 1);
+    tmp.pop();
   }
 }
-
-console.log(permute([1]));
