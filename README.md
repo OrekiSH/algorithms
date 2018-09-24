@@ -30,4 +30,4 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/group-anagrams-49/js/solution.js)|medium|array|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/validate-binary-search-tree-98/js/solution.js)|medium|tree|
