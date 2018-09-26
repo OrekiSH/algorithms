@@ -1,4 +1,4 @@
-|198|[House Robber](https://leetcode.com/problems/house-robber/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/house-robber-198/js/solution.js)|easy|array|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/happy-number-202/js/solution.js)|easy|math|
 
 |#|Title|Solution|Difficulty|Data Structure|
 |--|--- |--------|----------|--------------|
