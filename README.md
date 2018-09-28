@@ -30,4 +30,4 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/majority-element-169/js/solution.js)|easy|array|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/excel-sheet-column-title-168/js/solution.js)|easy|math|
