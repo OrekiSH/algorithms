@@ -30,4 +30,4 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/best-time-to-buy-and-sell-stock-ii-122/js/solution.js)|easy|array|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/sum-root-to-leaf-numbers-129/js/solution.js)|medium|tree|
