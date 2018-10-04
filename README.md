@@ -1,7 +1,3 @@
-|202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/happy-number-202/js/solution.js)|easy|math|
-
-|#|Title|Solution|Difficulty|Data Structure|
-|--|--- |--------|----------|--------------|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-two-numbers-2/js/solution.js), [c](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-two-numbers-2/c/solution.c)|medium|linked list|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/longest-substring-without-repeating-characters-3/js/solution.js)|medium|string|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/longest-palindromic-substring-5/js/solution.js)|medium|string|
@@ -30,4 +26,7 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/hard/binary-tree-maximum-path-sum-124/js/solution.js)|hard|tree|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/best-time-to-buy-and-sell-stock-ii-122/js/solution.js)|easy|array|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/sum-root-to-leaf-numbers-129/js/solution.js)|medium|tree|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/linked-list-cycle-ii-142/js/solution.js)|medium|linked list|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/happy-number-202/js/solution.js)|easy|math|
