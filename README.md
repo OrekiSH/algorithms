@@ -32,6 +32,7 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
+|139|[Word Break](https://leetcode.com/problems/word-break/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-break-139/js/solution.js)|medium|DP|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/intersection-of-two-linked-lists-160/js/solution.js)|easy|linked list|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-swap-670/js/solution.js)|medium|array|
