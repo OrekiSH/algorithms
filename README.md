@@ -36,6 +36,7 @@
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/intersection-of-two-linked-lists-160/js/solution.js)|easy|linked list|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/target-sum-494/js/solution.js)|medium|DP|
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/beautiful-arrangement-526/js/solution.js)|medium|backtrack|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/set-mismatch-645/js/solution.js)|easy|array|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-swap-670/js/solution.js)|medium|array|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/min-cost-climbing-stairs-746/js/solution.js)|easy|DP|
