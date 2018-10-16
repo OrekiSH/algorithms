@@ -40,6 +40,7 @@
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/set-mismatch-645/js/solution.js)|easy|array|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-swap-670/js/solution.js)|medium|array|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/min-cost-climbing-stairs-746/js/solution.js)|easy|DP|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/subdomain-visit-count-811/js/solution.js)|easy|hashtable|
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/score-of-parentheses-856/js/solution.js)|medium|string|
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-and-replace-pattern-890/js/solution.js)|medium|string|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/x-of-a-kind-in-a-deck-of-cards-914/js/solution.js)|easy|math|
