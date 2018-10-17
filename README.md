@@ -25,6 +25,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-62/js/solution.js)|medium|array|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-ii-63/js/solution.js)|medium|array|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/remove-duplicates-from-sorted-array-ii-80/js/solution.js)|medium|array|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/remove-duplicates-from-sorted-list-83/js/solution.js)|easy|linked list|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/same-tree-100/js/solution.js)|easy|tree|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/symmetric-tree-101/js/solution.js)|easy|tree|
@@ -35,6 +36,7 @@
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-break-139/js/solution.js)|medium|DP|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/intersection-of-two-linked-lists-160/js/solution.js)|easy|linked list|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-all-duplicates-in-an-array-442/js/solution.js)|medium|array|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/target-sum-494/js/solution.js)|medium|DP|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/beautiful-arrangement-526/js/solution.js)|medium|backtrack|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/set-mismatch-645/js/solution.js)|easy|array|
