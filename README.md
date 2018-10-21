@@ -36,6 +36,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-break-139/js/solution.js)|medium|DP|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/intersection-of-two-linked-lists-160/js/solution.js)|easy|linked list|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/number-of-islands-200/js/solution.js)|medium|array|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-all-duplicates-in-an-array-442/js/solution.js)|medium|array|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/target-sum-494/js/solution.js)|medium|DP|
