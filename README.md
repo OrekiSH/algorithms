@@ -22,6 +22,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-subarray-53/js/solution.js)|easy|array|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/spiral-matrix-54/js/solution.js)|medium|array|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/jump-game-55/js/solution.js)|medium|array|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/permutation-sequence-60/js/solution.js)|medium|math|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-62/js/solution.js)|medium|array|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-ii-63/js/solution.js)|medium|array|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
