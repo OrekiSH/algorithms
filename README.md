@@ -35,7 +35,9 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-ladder-127/js/solution.js)|medium|array|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-break-139/js/solution.js)|medium|DP|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-product-subarray-152/js/solution.js)|medium|array|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/intersection-of-two-linked-lists-160/js/solution.js)|easy|linked list|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/number-of-islands-200/js/solution.js)|medium|array|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
