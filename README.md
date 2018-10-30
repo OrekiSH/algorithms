@@ -25,6 +25,7 @@
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/permutation-sequence-60/js/solution.js)|medium|math|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-62/js/solution.js)|medium|array|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/unique-paths-ii-63/js/solution.js)|medium|array|
+|66|[Plus One](https://leetcode.com/problems/plus-one/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/plus-one-66/js/solution.js)|easy|array|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/set-matrix-zeroes-73/js/solution.js)|medium|array|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/remove-duplicates-from-sorted-array-ii-80/js/solution.js)|medium|array|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/remove-duplicates-from-sorted-array-ii-80/js/solution.js)|medium|array|
