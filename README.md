@@ -52,6 +52,7 @@
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/next-greater-element-i-496/js/solution.js)|easy|array|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/beautiful-arrangement-526/js/solution.js)|medium|backtrack|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/reshape-the-matrix-566/js/solution.js)|easy|array|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-one-row-to-tree-623/js/solution.js)|medium|tree|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/set-mismatch-645/js/solution.js)|easy|array|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-swap-670/js/solution.js)|medium|array|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/min-cost-climbing-stairs-746/js/solution.js)|easy|DP|
