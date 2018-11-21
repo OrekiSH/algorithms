@@ -56,6 +56,7 @@
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/average-of-levels-in-binary-tree-637/js/solution.js)|easy|tree|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/set-mismatch-645/js/solution.js)|easy|array|
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-swap-670/js/solution.js)|medium|array|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/binary-number-with-alternating-bits-693/js/solution.js)|easy|array|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/min-cost-climbing-stairs-746/js/solution.js)|easy|DP|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/subdomain-visit-count-811/js/solution.js)|easy|hashtable|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/shortest-distance-to-a-character-821/js/solution.js)|easy|string|
@@ -65,3 +66,4 @@
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/monotonic-array-896/js/solution.js)|easy|tree|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/increasing-order-search-tree-897/js/solution.js)|easy|tree|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/x-of-a-kind-in-a-deck-of-cards-914/js/solution.js)|easy|math|
+|917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/reverse-only-letters-917/js/solution.js)|easy|tree|
