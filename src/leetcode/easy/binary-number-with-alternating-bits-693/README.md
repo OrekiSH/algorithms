@@ -1,10 +1,12 @@
 ```
-Input: "ab-cd"
-Output: "dc-ba"
+// two adjacent bits will always have different values.
 
-Input: "a-bC-dEf-ghIj"
-Output: "j-Ih-gfE-dCba"
+Input: 5(101)
+Output: True
 
-Input: "Test1ng-Leet=code-Q!"
-Output: "Qedo1ct-eeLg=ntse-T!"
+Input: 7(111)
+Output: False
+
+Input: 11(1011)
+Output: False
 ```
