@@ -44,6 +44,7 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/excel-sheet-column-number-171/js/solution.js)|easy|math|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/number-of-islands-200/js/solution.js)|medium|array|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/binary-tree-paths-257/js/solution.js)|easy|tree|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/ransom-note-383/js/solution.js)|easy|array|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/sum-of-left-leaves-404/js/solution.js)|easy|tree|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[cpp](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/n-ary-tree-level-order-traversal-429/cpp/solution.cpp)|easy|tree|
