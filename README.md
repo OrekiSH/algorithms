@@ -45,6 +45,7 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/number-of-islands-200/js/solution.js)|medium|array|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/lowest-common-ancestor-of-a-binary-tree-236/js/solution.js)|medium|tree|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/binary-tree-paths-257/js/solution.js)|easy|tree|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/counting-bits-338/js/solution.js)|medium|array|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/ransom-note-383/js/solution.js)|easy|array|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/sum-of-left-leaves-404/js/solution.js)|easy|tree|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/partition-equal-subset-sum-416/js/solution.js)|medium|DP|
@@ -72,3 +73,4 @@
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/increasing-order-search-tree-897/js/solution.js)|easy|tree|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/x-of-a-kind-in-a-deck-of-cards-914/js/solution.js)|easy|math|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/reverse-only-letters-917/js/solution.js)|easy|tree|
+|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/flip-equivalent-binary-trees-951/js/solution.js)|medium|tree|
