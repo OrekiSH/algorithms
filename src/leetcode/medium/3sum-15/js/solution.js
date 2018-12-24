@@ -4,7 +4,8 @@
  */
 var threeSum = function(nums) {
   var res = [];
-  if (!nums || nums.length < 3) {
+  var n = nums.length;
+  if (!nums || n < 3) {
     return res;
   }
   nums.sort((a, b) => a - b);
@@ -18,7 +19,7 @@ var threeSum = function(nums) {
     }
 
     var second = first + 1;
-    var third = nums.length - 1;
+    var third = n - 1;
 
     while (second < third) {
       var sum = nums[first] + nums[second] + nums[third];
