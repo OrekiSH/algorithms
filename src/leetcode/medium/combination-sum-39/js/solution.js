@@ -6,26 +6,26 @@
 var combinationSum = function(candidates, target) {
   var result = [];
   candidates.sort((a, b) => a - b);
-
-  if (candidates[0] > target) {
-    return result;
-  }
-  var comb = [];
-  backtrack(candidates, target, result, comb, 0);
+  backtrack(candidates, target, result, [], 0);
 
   return result;
 };
 
-function backtrack(candidates, target, result, comb, start) {
-  if (target < 0) {
+function backtrack(candidates, target, result, current, start) {
+  if (target === 0) {
+    result.push(current.slice());
     return;
-  } else if (target === 0) {
-    return result.push(comb.slice());
+  } else if (target < candidates[0]) {
+    return;
   }
 
   for (var i = start; i < candidates.length; i += 1) {
-    comb.push(candidates[i]);
-    backtrack(candidates, target - candidates[i], result, comb, i);
-    comb.pop();
+    var n = candidates[i];
+    if (target - n < 0) {
+      continue;
+    }
+    current.push(n);
+    backtrack(candidates, target - n, result, current, i);
+    current.pop();
   }
 }
