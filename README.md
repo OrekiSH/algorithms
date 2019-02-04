@@ -78,4 +78,5 @@
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/increasing-order-search-tree-897/js/solution.js)|easy|tree|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/x-of-a-kind-in-a-deck-of-cards-914/js/solution.js)|easy|math|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/reverse-only-letters-917/js/solution.js)|easy|tree|
+|932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/beautiful-array-932/js/solution.js)|medium|array|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/flip-equivalent-binary-trees-951/js/solution.js)|medium|tree|
