@@ -38,6 +38,7 @@
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-ladder-127/js/solution.js)|medium|array|
 |139|[Word Break](https://leetcode.com/problems/word-break/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/word-break-139/js/solution.js)|medium|DP|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/insertion-sort-list-147/js/solution.js)|medium|linked list|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/maximum-product-subarray-152/js/solution.js)|medium|array|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/find-minimum-in-rotated-sorted-array-153/js/solution.js)|medium|array|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/intersection-of-two-linked-lists-160/js/solution.js)|easy|linked list|
