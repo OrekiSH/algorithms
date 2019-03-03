@@ -19,6 +19,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/search-insert-position-35/js/solution.js)|easy|array|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/combination-sum-39/js/solution.js)|medium|array|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/multiply-strings-43/js/solution.js)|medium|string|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/rotate-image-48/js/solution.js)|medium|array|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-subarray-53/js/solution.js)|easy|array|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/spiral-matrix-54/js/solution.js)|medium|array|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/jump-game-55/js/solution.js)|medium|array|
@@ -34,6 +35,7 @@
 |100|[Same Tree](https://leetcode.com/problems/same-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/same-tree-100/js/solution.js)|easy|tree|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/symmetric-tree-101/js/solution.js)|easy|tree|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/maximum-depth-of-binary-tree-104/js/solution.js)|easy|tree|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/construct-binary-tree-from-inorder-and-postorder-traversal-106/js/solution.js)|medium|tree|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-118/js/solution.js)|easy|array|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/pascals-triangle-ii-119/js/solution.js)|easy|array|
 |120|[Triangle](https://leetcode.com/problems/triangle/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/triangle-120/js/solution.js)|medium|array|
@@ -50,6 +52,7 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/minimum-size-subarray-sum-209/js/solution.js)|medium|array|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/kth-largest-element-in-an-array-215/js/solution.js)|medium|array|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/combination-sum-iii-216/js/solution.js)|medium|array|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/kth-smallest-element-in-a-bst-230/js/solution.js)|medium|tree|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/lowest-common-ancestor-of-a-binary-tree-236/js/solution.js)|medium|tree|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/binary-tree-paths-257/js/solution.js)|easy|tree|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/single-number-iii-260/js/solution.js)|medium|array|
