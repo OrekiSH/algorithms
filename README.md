@@ -70,6 +70,7 @@
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/beautiful-arrangement-526/js/solution.js)|medium|backtrack|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/friend-circles-547/js/solution.js)|medium|array|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/reshape-the-matrix-566/js/solution.js)|easy|array|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/task-scheduler-621/js/solution.js)|medium|array|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/medium/add-one-row-to-tree-623/js/solution.js)|medium|tree|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/average-of-levels-in-binary-tree-637/js/solution.js)|easy|tree|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description/)|[js](https://github.com/OrekiSH/algorithms/blob/master/src/leetcode/easy/set-mismatch-645/js/solution.js)|easy|array|
